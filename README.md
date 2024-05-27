@@ -1,0 +1,1 @@
+# zabbix-update-hostgroups
